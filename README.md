@@ -12,7 +12,7 @@
 </p>
 
 ## About Me <br>
-'*' Name: Sergei <br>
+* Name: Sergei <br>
 * Years: 19
 
 ## Education <br>
