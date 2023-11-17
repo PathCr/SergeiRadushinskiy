@@ -10,6 +10,6 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>doktorshow3@gmail.com</a>
 </p>
-## 🛠 Technical Stack <hr>
-*   PHP\HTML\CSS\SQL languages
+## 🛠 Technical Stack <br>
+*   PHP\HTML\CSS\SQL languages <br>
 *   MySQL, SQL Server Studio
