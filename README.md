@@ -27,3 +27,4 @@
 ## 🛠 Technical Stack <br>
 *   PHP\HTML\CSS\SQL languages <br>
 *   MySQL, SQL Server Studio
+*   Java/Kotlin/Groovy/COBOL languages
