@@ -12,11 +12,13 @@
 </p>
 
 ## About Me <br>
-Name: Sergei
-Years: 19 
+Name: Sergei <br>
+Years: 19
 
 ## Education <br>
-Full secondary education
+Full secondary education <br>
+Technical school: г. Краснодар, ул. Зиповская 5 <br>
+Direction: Информационные системы и программирование - 3 курс 
 
 ## 🛠 Technical Stack <br>
 *   PHP\HTML\CSS\SQL languages <br>
