@@ -12,18 +12,18 @@
 </p>
 
 ## About Me <br>
-Name: Sergei <br>
-Years: 19
+* Name: Sergei <br>
+* Years: 19
 
 ## Education <br>
-Full secondary education <br>
-Technical school: г. Краснодар, ул. Зиповская 5 (ИМСИТ) <br>
-Direction: Информационные системы и программирование - 3 курс
+* Full secondary education <br>
+* Technical school: г. Краснодар, ул. Зиповская 5 (ИМСИТ) <br>
+* Direction: Информационные системы и программирование - 3 курс
 
 ## Laguages <br>
-Russian: 4+ <br>
-English: B1
+* Russian: 4+ <br>
+* English: B1
 
 ## 🛠 Technical Stack <br>
-*   PHP\HTML\CSS\SQL languages <br>
-*   MySQL, SQL Server Studio
+* PHP\HTML\CSS\SQL languages <br>
+* MySQL, SQL Server Studio
