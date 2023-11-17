@@ -1,4 +1,3 @@
-# SergeiR
 # Hi, I'm Sergei 👋
 <p align='center'>
 </p>
