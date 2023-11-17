@@ -10,6 +10,14 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>doktorshow3@gmail.com</a>
 </p>
+
+## About Me <br>
+Name: Sergei
+Years: 19 
+
+## Education <br>
+Full secondary education
+
 ## 🛠 Technical Stack <br>
 *   PHP\HTML\CSS\SQL languages <br>
 *   MySQL, SQL Server Studio
