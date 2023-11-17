@@ -21,7 +21,7 @@
 * Direction: Информационные системы и программирование - 3 курс
 
 ## Laguages <br>
-* Russian: 4+ <br>
+* Russian: 5+ <br>
 * English: B1
 
 ## 🛠 Technical Stack <br>
