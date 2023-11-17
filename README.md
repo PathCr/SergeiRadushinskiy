@@ -25,5 +25,5 @@
 * English: B1
 
 ## 🛠 Technical Stack <br>
-* PHP\HTML\CSS\SQL languages <br>
-* MySQL, SQL Server Studio
+*   PHP\HTML\CSS\SQL languages <br>
+*   MySQL, SQL Server Studio
