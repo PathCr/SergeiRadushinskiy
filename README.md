@@ -11,9 +11,7 @@
 </p>
 
 ## About Me <br>
-3rd year student of information systems and programming. The main language I'm learning is PHP, which has been in development for a year. 
-I am writing my website, I have recently learned how to write a router for my project. Have experience in creating and working with MY database.
-Independently on programming courses I study the basics of PHP, OOP, read books. I plan to start learning the yii2 framework.
+Cтудент 3 курса факультета информационных систем и программирования. Основной язык, который я изучаю, - PHP. Я пишу свой веб-сайт, недавно я научился писать маршрутизатор для своего проекта. Имею опыт создания и работы с моей базой данных. Самостоятельно на курсах программирования я изучаю основы PHP, ООП, читаю книги. Планирую начать изучать фреймворк yii2.
 * Name: Sergei <br>
 * Years: 19
 
