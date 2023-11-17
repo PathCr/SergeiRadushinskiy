@@ -21,6 +21,8 @@ Technical school: г. Краснодар, ул. Зиповская 5 (ИМСИТ
 Direction: Информационные системы и программирование - 3 курс
 
 ## Laguages <br>
+Russian: 4+ <br>
+English: B1
 
 ## 🛠 Technical Stack <br>
 *   PHP\HTML\CSS\SQL languages <br>
