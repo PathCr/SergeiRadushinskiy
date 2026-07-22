@@ -17,7 +17,7 @@ Backend-разработчик на PHP/Laravel с коммерческим оп
 Работаю с:
 
 * PHP 8+
-* Laravel 13
+* Laravel
 * PostgreSQL
 * Docker / Laravel Sail
 * Laravel Sanctum
