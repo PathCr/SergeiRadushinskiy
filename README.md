@@ -17,7 +17,7 @@ Backend-разработчик на PHP/Laravel с коммерческим оп
 Работаю с:
 
 * PHP 8+
-* Laravel
+* Laravel / Yii2
 * PostgreSQL
 * Docker / Laravel Sail
 * Laravel Sanctum
@@ -64,7 +64,7 @@ Backend-сервис для сбора, хранения и отображени
 ### Технологический стек
 
 * PHP 8.4
-* Laravel 13
+* Laravel / Yii2
 * PostgreSQL
 * Docker
 * Laravel Sail
