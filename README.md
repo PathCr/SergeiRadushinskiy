@@ -1,113 +1,102 @@
-Сергей Радушинский 22 y.o.
+<h1 align="center">Сергей Радушинский</h1>
 
-PHP Backend Developer / Laravel
+<p align="center">
+  <strong>PHP Backend-разработчик</strong> · Laravel · Yii2<br>
+  <sub>22 года</sub>
+</p>
 
-PHP 8+ · Laravel · Yii2 · PostgreSQL · REST API · Docker · Git
+<p align="center">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img alt="Yii2" src="https://img.shields.io/badge/-Yii2-1F6FEB?style=flat-square">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</p>
 
-Telegram: https://t.me/Sergei_radushinskiy
-GitHub: https://github.com/PathCr/Laravel13
+<p align="center">
+  <a href="https://t.me/Sergei_radushinskiy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@Sergei_radushinskiy-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/PathCr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-PathCr-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="./resume/Sergey_Radushinsky_PHP_Backend.pdf"><img alt="Резюме PDF" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-PDF-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="./resume/Sergey_Radushinsky_PHP_Backend.docx"><img alt="Резюме DOCX" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-DOCX-2B579A?style=flat-square&logo=microsoftword&logoColor=white"></a>
+</p>
 
-О себе
+---
 
-PHP Backend-разработчик с коммерческим опытом разработки и сопровождения веб-приложений на Yii2.
+## О себе
 
-Разрабатываю backend на PHP/Laravel, REST API и работаю с реляционными базами данных. Имею опыт командной работы с Git/GitHub, разработки новых функций, исправления ошибок и доработки существующего кода.
+PHP-разработчик с коммерческим опытом разработки и сопровождения веб-приложений на Yii2 и Laravel. Разрабатываю backend, REST API и интеграции с внешними сервисами, работаю с PostgreSQL и Redis, пишу feature-тесты и разворачиваю проекты в Docker.
 
-Самостоятельно разработал backend-сервис на Laravel для сбора и модерации отзывов с REST API, аутентификацией, авторизацией, автоматическими тестами, очередями и Docker-окружением.
+Сейчас участвую в разработке ERP-системы для управления топливными картами: операции с картами, платежи и интеграция с внешним API E100.
 
-Опыт работы
-Разработчик ПО — ООО «Лемборган Техно»
+**Открыт к предложениям** на позицию PHP/Laravel-разработчика.
 
-Февраль 2025 — Июль 2025
+## Опыт работы
 
-Разработка новых страниц и функциональности веб-приложений на Yii2.
-Получение и вывод данных из базы данных с использованием SQL-запросов.
-Работа с MVC-архитектурой приложения.
-Доработка существующего функционала и исправление ошибок.
-Анализ причин возникновения ошибок и внесение изменений в код для их устранения.
-Работа с Git/GitHub: создание веток, коммиты, push и merge.
-Работа по задачам, постановка и уточнение требований совместно с руководителем.
-Получение code review и технической обратной связи от руководителя.
-Pet-project
-Сервис отзывов для интеграции на сайты компаний
+### AliotFleet — PHP/Laravel-разработчик
 
-GitHub: https://github.com/PathCr/Laravel13
+<sub>Сентябрь 2026 — настоящее время</sub>
 
-Backend-сервис для сбора, хранения и модерации отзывов клиентов с возможностью интеграции отображения отзывов на сторонние сайты.
+ERP-система для управления топливными картами автопарков. Laravel 13, PHP 8.3, PostgreSQL, Redis, Blade + Bootstrap 5, Docker.
 
-Реализовано
-Спроектирована структура базы данных для пользователей, сайтов и отзывов.
-Разработан REST API для управления сайтами и отзывами.
-Реализована регистрация и аутентификация пользователей с помощью Laravel Sanctum.
-Реализовано разграничение доступа к данным с помощью Laravel Policies.
-Добавлена валидация входящих данных через FormRequest.
-Реализована работа с PostgreSQL через Eloquent ORM.
-Добавлена модерация отзывов со статусами pending, approved и rejected.
-Реализована фильтрация отзывов по статусу.
-Добавлены события, Listener и очереди для обработки уведомлений.
-Написаны автоматические тесты для ключевого функционала.
-Настроена автоматическая генерация OpenAPI-документации с помощью Scramble.
-Проект контейнеризирован с использованием Docker и Laravel Sail.
-Разработка и запуск проекта выполняются в Linux Ubuntu.
+- Разрабатывал backend-функциональность по задачам в отдельных Git-ветках: операции с топливными картами (привязка и отвязка к договору, перевод между клиентами, смена PIN, активация, блокировка), платежи и авансы, управление менеджерами и договорами, группировка карт в кабинете компании.
+- Работал с внешним API E100 через сервисный слой (Endpoints/*Service): добавлял методы для карт, платежей, менеджеров и клиентов; использовал кэширование токенов в Redis, retry и обработку ошибок 401/403, логирование запросов.
+- Реализовал REST API для внешних клиентов: вход по логину и паролю с выдачей application-токена (Redis, TTL), middleware-аутентификация, API Resources, эндпоинт с информацией о водителе и его картах.
+- Реализовал учёт платежей и авансов: история платежей, запись изменений баланса в balance_history, изменение кредитного лимита и предоплаты договора, аудит действий администраторов.
+- Покрыл ключевые сценарии feature-тестами (Pest/PHPUnit, моки внешнего API) — 8 тестовых наборов: карты, оплаты, авансы, блокировки клиентов, лимиты.
+- Добавил Docker/Podman-окружение (Dockerfile, docker-compose, entrypoint); проходил CI-проверки: Laravel Pint, Larastan (PHPStan level 5), тесты на PostgreSQL.
 
-Технологии
-PHP 8.4
-Laravel 13
-PostgreSQL 17
-Laravel Sanctum
-Eloquent ORM
-FormRequest
-Policies
-PHPUnit
-Docker / Laravel Sail
-OpenAPI / Scramble
-Git
-Linux Ubuntu
+### ООО «Лемборган Техно» — Разработчик ПО
 
-Технические навыки
-Backend
-PHP 8+
-Laravel
-Yii2
-REST API
-ООП
-Eloquent ORM
-FormRequest
-Policies
-Laravel Sanctum
-PHPUnit
+<sub>Февраль 2025 — Июль 2025</sub>
 
-Базы данных
-PostgreSQL
-MySQL
-SQL
+Веб-приложения на Yii2.
 
-Инструменты
-Git / GitHub
-Docker
-Laravel Sail
-Linux Ubuntu
-OpenAPI / Scramble
+- Разрабатывал новые страницы и функциональность на Yii2: вывод данных из БД через SQL-запросы, работа с MVC-архитектурой.
+- Дорабатывал существующий функционал, анализировал причины ошибок и исправлял их.
+- Работал с Git/GitHub (ветки, коммиты, push, merge), уточнял требования с руководителем, получал code review.
 
-Frontend
-HTML
-CSS
-Bootstrap
-JavaScript
+## Проекты
 
-Образование
-ИМСИТ, Краснодар
+### Сервис отзывов для сайтов компаний
 
-Информационные системы и программирование
+<sub>Pet-проект · Laravel 13 · PostgreSQL · Sanctum · Docker / Sail · PHPUnit · OpenAPI</sub>
 
-Техникум окончен.
+[github.com/PathCr/Laravel13](https://github.com/PathCr/Laravel13)
 
-Высшее образование
+- Спроектировал структуру БД (пользователи, сайты, отзывы) и REST API для управления сайтами и отзывами.
+- Реализовал регистрацию и аутентификацию на Laravel Sanctum, разграничение доступа через Policies и валидацию через FormRequest.
+- Добавил модерацию отзывов со статусами pending, approved и rejected, а также фильтрацию по статусу.
+- Настроил события, Listener и очереди для уведомлений, OpenAPI-документацию (Scramble) и Docker-окружение; написал автоматические тесты.
 
-Прикладная информатика
+### Uptime Monitor — сервис мониторинга сайтов
 
-2026 — настоящее время
+<sub>Pet-проект · Laravel 13 · Redis / Horizon · PostgreSQL · Vue 3 · Telegram Bot API · Pest · Docker Compose</sub>
 
-Языки
-Русский — родной
-Английский — A2-B1
+- Реализовал проверку сайтов и API по расписанию на очередях: инциденты, защита от ложных срабатываний, дневная агрегация и uptime за 24 ч / 7 дн. / 30 дн.
+- Сделал уведомления в Telegram и на email, дашборд на Vue 3 с графиками и публичные статус-страницы.
+
+## Навыки
+
+- **Backend:** PHP 8+, Laravel 13, Yii2, REST API, ООП, MVC, паттерн Action, Eloquent ORM, Laravel Sanctum, Policies, FormRequest, очереди, Redis, Pest / PHPUnit, Larastan (PHPStan), Laravel Pint
+- **Базы данных:** PostgreSQL, MySQL, SQL, миграции, Eloquent
+- **Инструменты:** Git / GitHub, Docker, Docker Compose, Podman, Laravel Sail, Linux (Ubuntu), OpenAPI / Scramble, Horizon, GitHub Actions
+- **Frontend:** Blade, Bootstrap 5, HTML, CSS, JavaScript, Vue 3 (базовый уровень)
+
+## Образование
+
+**ИМСИТ, Краснодар**
+
+- Среднее профессиональное — «Информационные системы и программирование», техникум окончен
+- Высшее — «Прикладная информатика», 2026 — настоящее время
+
+## Языки
+
+- Русский — родной
+- Английский — A2–B1 (читаю техническую документацию)
+
+---
+
+<p align="center"><sub>Резюме также доступно в <a href="./resume/Sergey_Radushinsky_PHP_Backend.pdf">PDF</a> и <a href="./resume/Sergey_Radushinsky_PHP_Backend.docx">DOCX</a></sub></p>
