@@ -71,7 +71,7 @@ ERP-система для управления топливными картам
 - Добавил модерацию отзывов со статусами pending, approved и rejected, а также фильтрацию по статусу.
 - Настроил события, Listener и очереди для уведомлений, OpenAPI-документацию (Scramble) и Docker-окружение; написал автоматические тесты.
 
-### Uptime Monitor — сервис мониторинга сайтов
+### Uptime Monitor — сервис мониторинга сайтов AI проект
 
 <sub>Pet-проект · Laravel 13 · Redis / Horizon · PostgreSQL · Vue 3 · Telegram Bot API · Pest · Docker Compose</sub>
 
